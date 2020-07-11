@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a backend developer in the making 😄. I enjoy creating smalls useful apps for people in my free time
+I am a backend developer in the making 😄. I enjoy creating small useful apps for people in my free time
 <!--
 **Abhinav-Git19/Abhinav-Git19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
