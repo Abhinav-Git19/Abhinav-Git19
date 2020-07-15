@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am a backend developer in the making 😄. I enjoy creating small useful apps for people in my free time
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhinav-git19)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Abhinav-Git19/Abhinav-Git19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
